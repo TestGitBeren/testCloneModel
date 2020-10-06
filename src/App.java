@@ -19,4 +19,9 @@ public class App {
         //TODO write a method to sort an array
         return input;
     }
+
+    // Method to print message to console 
+    public static void printMessage(String input) {
+        System.out.println(input);
+    }
 }
