@@ -24,4 +24,9 @@ public class App {
     public static void printMessage(String input) {
         System.out.println(input);
     }
+
+    // Method to print Integer to console 
+    public static void printInt(Integer input) {
+        System.out.println(input);
+    }
 }
